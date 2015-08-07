@@ -29,6 +29,10 @@ grails.project.dependency.resolution = {
 			excludes "servlet-api"
 		}
 		compile ":mail:1.0.7"
+		build(":release:3.1.1",
+              ":rest-client-builder:2.1.1") {
+            export = false
+        }
 
 		
 	}
