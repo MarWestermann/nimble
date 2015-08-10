@@ -21,7 +21,7 @@ grails.project.dependency.resolution = {
 	}
 
 	plugins {
-		runtime ":twitter-bootstrap:2.3.0"
+		runtime ":twitter-bootstrap:3.3.4"
 		runtime ":resources:1.2.14"
 		runtime ":fields:1.5.1"
 		runtime ":jquery:1.11.1"

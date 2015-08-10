@@ -7,7 +7,7 @@ import org.codehaus.groovy.grails.commons.GrailsApplication
 import org.springframework.mail.javamail.JavaMailSenderImpl
 
 class NimbleGrailsPlugin {
-	def version = "0.8"
+	def version = "0.9"
 	def grailsVersion = "2.5.1 > *"
 	def title = "Nimble"
 	def author = "Sudhir Nimavat"
